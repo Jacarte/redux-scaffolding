@@ -81,7 +81,7 @@
   },
   "peerDependencies": {
     "react": "^16.4.1",
-    "react-redux": "^5.0.7",
+    "react-redux": "^6.0.0",
     "reflect-metadata": "^0.1.12"
   }
 }
